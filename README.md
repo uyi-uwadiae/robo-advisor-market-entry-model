@@ -81,4 +81,4 @@ Made with Claude (an AI assistant by Anthropic) and logged in full on the Overvi
 
 ## About
 
-Uyi Uwadiae · [Portfolio](https://uyiuwadiae.wordpress.com) · [LinkedIn](https://www.linkedin.com/in/uyiuwadiae/) · [Substack](https://uyiuwadiae.substack.com)
+Uyi Uwadiae · [Portfolio](https://uyiuwadiae.wordpress.com) · [LinkedIn](https://www.linkedin.com/in/uyiuwadiae/) · [Substack](https://uyiuwadiae.substack.com) · [Medium](https://uyi-uwadiae.medium.com)
