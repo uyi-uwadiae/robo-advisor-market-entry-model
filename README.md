@@ -81,5 +81,5 @@ Made with Claude (an AI assistant by Anthropic) and logged in full on the Overvi
 
 ## About
 
-Uyi Uwadiae · [Portfolio](https://uyiuwadiae.wordpress.com) · [LinkedIn](https://www.linkedin.com/in/uyiuwadiae/) · [Substack](https://uyiuwadiae.substack.com)# robo-advisor-market-entry-model
+Uyi Uwadiae · [Portfolio](https://uyiuwadiae.wordpress.com) · [LinkedIn](https://www.linkedin.com/in/uyiuwadiae/) · [Substack](https://uyiuwadiae.substack.com) # robo-advisor-market-entry-model
 Excel model of the 2023-2033 US robo-advisor market and a firm's hypothetical entry (AUM, fees, payback, NPV, IRR). Built for a Dec 2024 strategy interview, updated 2026.
