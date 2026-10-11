@@ -75,7 +75,7 @@ Made with Claude (an AI assistant by Anthropic) and logged in full on the Overvi
 
 ## Repository layout
 
-- `model/Robo_Advisor_Case_Study.xlsx`
+- `Robo_Advisor_Case_Study.xlsx`
 - `README.md`
 
 ## About
